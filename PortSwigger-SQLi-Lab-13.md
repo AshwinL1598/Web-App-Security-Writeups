@@ -1,4 +1,4 @@
-# PortSwigger Web Security Academy: SQL Injection (SQLi) Lab 13
+# PortSwigger Web Security Academy
 
 ## Lab 13: Visible Error-Based SQL Injection
 
